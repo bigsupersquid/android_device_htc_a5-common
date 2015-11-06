@@ -25,7 +25,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # QCOM
 PRODUCT_PROPERTY_OVERRIDES += \
     com.qc.hardware=true \
-    persist.thermal.monitor=true \
     ro.qc.sdk.sensors.gestures=true \
     ro.vendor.extension_library=/vendor/lib/libqti-perfd-client.so
 
